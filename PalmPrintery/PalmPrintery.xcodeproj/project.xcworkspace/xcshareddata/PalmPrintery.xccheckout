@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>B8D6B466-90E9-4B09-86B0-0FF997716B44</string>
+	<key>IDESourceControlProjectName</key>
+	<string>PalmPrintery</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>18d08618-6d1a-f5cf-c918-2be91d0067cf</key>
+		<string>https://vip.svnspot.com/totem.palmprintery</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>trunk/PalmPrintery/PalmPrintery.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>18d08618-6d1a-f5cf-c918-2be91d0067cf</key>
+		<string>../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>18d08618-6d1a-f5cf-c918-2be91d0067cf</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>18d08618-6d1a-f5cf-c918-2be91d0067cf</string>
+			<key>IDESourceControlWCCName</key>
+			<string>totem.palmprintery</string>
+		</dict>
+	</array>
+</dict>
+</plist>

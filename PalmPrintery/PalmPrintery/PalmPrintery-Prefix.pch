@@ -1,0 +1,21 @@
+//
+//  PalmPrintery-Prefix.pch
+//  PalmPrintery
+//
+//  Created by Jia Xiaochao on 14/12/20.
+//  Copyright (c) 2014年 totem. All rights reserved.
+//
+
+#import <Availability.h>
+
+#ifndef __IPHONE_5_0
+#warning "This project uses features only available in iOS SDK 5.0 and later."
+#endif
+
+#ifdef __OBJC__
+
+#import <UIKit/UIKit.h>
+#import <Foundation/Foundation.h>
+#import "macro.h"
+
+#endif
